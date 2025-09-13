@@ -1236,4 +1236,5 @@ if [ ! -f "$HOME/.daidaibird_configured" ]; then
 fi
 
 # 启动主菜单
+
 main_menu
